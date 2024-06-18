@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oDd89Y1DVxawz1CSoYNYQAzL9c6wVKPdxyAshAIN3Ew73GswehBBq5XK0G7rbsJC4Sx9YB4ih9qw7Lxue0bSsQ==",
+  "dgSpecHash": "zLq1m/PnZTzrp++fFJtWJCBbq2sRpdLuTt6gs5lOTU0DSAQel6rhpgDZ8WW8qKDgzE1qZ5J/bUO+GNXzh9db4A==",
   "success": true,
-  "projectFilePath": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator.csproj",
+  "projectFilePath": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator/ReceiptGenerator.csproj",
   "expectedPackageFiles": [
     "/Users/matiasalejandronarganes/.nuget/packages/bouncycastle.cryptography/2.3.0/bouncycastle.cryptography.2.3.0.nupkg.sha512",
     "/Users/matiasalejandronarganes/.nuget/packages/enums.net/4.0.1/enums.net.4.0.1.nupkg.sha512",

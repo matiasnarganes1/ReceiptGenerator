@@ -5583,11 +5583,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator.csproj",
+      "projectUniqueName": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator/ReceiptGenerator.csproj",
       "projectName": "ReceiptGenerator",
-      "projectPath": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator.csproj",
+      "projectPath": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator/ReceiptGenerator.csproj",
       "packagesPath": "/Users/matiasalejandronarganes/.nuget/packages/",
-      "outputPath": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/obj/",
+      "outputPath": "/Users/matiasalejandronarganes/Projects/ReceiptGenerator/ReceiptGenerator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/matiasalejandronarganes/.nuget/NuGet/NuGet.Config"
