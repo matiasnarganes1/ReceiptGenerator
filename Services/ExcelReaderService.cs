@@ -26,10 +26,11 @@ public class ExcelReaderService
                     {
                         receipts.Add(new Receipt
                         {
-                            Id = int.Parse(currentRow.GetCell(0).ToString()),
+                            Id = row,
                             Description = currentRow.GetCell(1).ToString(),
                             Amount = decimal.Parse(currentRow.GetCell(2).ToString()),
-                            Date = DateTime.Parse(currentRow.GetCell(3).ToString())
+                            Date = DateTime.Parse(currentRow.GetCell(3).ToString()),
+                            Quantity = int.Parse(currentRow.GetCell(4).ToString())
                         });
                     }
                 }

@@ -42,9 +42,13 @@
               "target": "Package",
               "version": "[2.7.0, )"
             },
-            "itext7": {
+            "PdfSharp": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[6.1.0, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2024.6.2, )"
             }
           },
           "imports": [
